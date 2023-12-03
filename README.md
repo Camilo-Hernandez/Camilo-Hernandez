@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: send me an email at camihruiz24@gmail.com or a message to my [LinkedIn](https://www.linkedin.com/in/camilo-hernandez-ruiz/)
 
 
-- ⚡ Fun fact: I love SynthWave '84 Material Theme on Android Studio.
+- ⚡ Fun fact: I love SynthWave '84 Material Theme on Android Studio and Visual Studio Code.
   
 
 <br/>  
