@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Camilo-Hernandez/Camilo-Hernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -115,22 +113,9 @@ Here are some ideas to get you started:
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Camilo-Hhernandez&&style=flat-square" align="center" />
-</div>  
-  
+<img src="https://komarev.com/ghpvc/?username=Camilo-Hernandez&&style=flat-square" align="center" />
+</div>    
 
 <br/>  
 
