@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### <div align="center">I'm Camilo, a telecommunications engineer passionate about Android Development and Machine Learning 👨‍💻 working remotely since 2020 🚀</div>  
   
-- 🌱 I’m currently learning Firebase services.
+- 🌱 I’m currently learning in-depth Work Manager API.
   
 
 - 💬 Ask me about anything related to Telecommunications Engineering, data management, and Android development
