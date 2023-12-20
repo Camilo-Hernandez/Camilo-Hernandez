@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm Camilo, a telecommunications engineer passionate about Android Development and Machine Learning 👨‍💻 working remotely since 2020 🚀</div>  
-  
-- 🌱 I’m currently learning in-depth Work Manager API.
+### <div align="center">I'm Camilo, a **Telecommunications Engineer** passionate about Android Development, Machine Learning and Networking 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 💬 Ask me about anything related to Telecommunications Engineering, data management, and Android development
+- 💬 Ask me about anything related to Telecommunications Engineering.
 
 
 - 📫 How to reach me: send me an email at camihruiz24@gmail.com or a message to my [LinkedIn](https://www.linkedin.com/in/camilo-hernandez-ruiz/)
