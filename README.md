@@ -18,16 +18,10 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm Camilo, a **Telecommunications Engineer** passionate about Android Development, Machine Learning and Networking 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Camilo, a **Telecommunications Engineer** passionate about Android Development and automation 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 💬 Ask me about anything related to Telecommunications Engineering.
-
-
 - 📫 How to reach me: send me an email at camihruiz24@gmail.com or a message to my [LinkedIn](https://www.linkedin.com/in/camilo-hernandez-ruiz/)
-
-
-- ⚡ Fun fact: I love SynthWave '84 Material Theme on Android Studio and Visual Studio Code.
   
 
 <br/>  
