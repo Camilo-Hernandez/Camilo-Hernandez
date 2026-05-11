@@ -47,20 +47,12 @@ Telecoms engineer turned AI systems builder. I design and ship production AI age
 
 ---
 
-### GitHub Stats
+### Work with me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Camilo-Hernandez&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-Hernandez&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
-</div>
-
----
-
-### Let's work together
-
-I'm open to AI/automation consulting, agentic system design, and backend + mobile contracts.
-US-grade engineering quality at LatAm rates.
+Looking for contracts involving:
+- **AI agents & RAG pipelines** — Claude, LangGraph, MCP, FastAPI backends
+- **B2B process automation** — turning manual workflows into agentic systems
+- **Android & KMP apps** — Jetpack Compose, Clean Architecture, offline-first
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-hernandez-ruiz/)
 [![Email](https://img.shields.io/badge/Email-camihruiz24%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:camihruiz24@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Camilo--Hernandez-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Camilo-Hernandez)
