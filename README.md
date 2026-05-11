@@ -23,6 +23,8 @@ Telecoms engineer turned AI systems builder. I design and ship production AI age
 ### AI / LLM
 
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-square)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=terminal&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-FF6B6B?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-4A90D9?style=flat-square)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-6A0DAD?style=flat-square)
