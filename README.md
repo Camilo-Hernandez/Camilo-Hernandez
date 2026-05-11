@@ -1,6 +1,6 @@
 ## Camilo Hernandez · AI & Automation Systems Engineer
 
-Telecoms engineer turned AI systems builder. I design and ship production AI agents, RAG pipelines, and cross-platform mobile apps — for real clients, in production.
+AI systems builder. I design and ship production AI agents, RAG pipelines, and cross-platform mobile apps — for real clients, in production.
 
 📍 Colombia &nbsp;·&nbsp; GMT-5 (overlaps US East & Central) &nbsp;·&nbsp; Available for remote contracts
 
