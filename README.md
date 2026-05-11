@@ -47,6 +47,12 @@ Telecoms engineer turned AI systems builder. I design and ship production AI age
 
 ---
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Camilo-Hernandez&theme=github-dark&hide_border=true" />
+</div>
+
+---
+
 ### Work with me
 
 Looking for contracts involving:
