@@ -1,6 +1,6 @@
 # Camilo Hernandez · Software Engineer
 
-Python and Kotlin engineer building AI agents, automation systems, and cross-platform mobile apps. Active in cybersecurity. Background in telecommunications engineering (Universidad de Antioquia).
+Python and Kotlin engineer building AI agents, automation systems, and cross-platform mobile apps. Background in telecommunications engineering (Universidad de Antioquia).
 
 📍 Colombia &nbsp;·&nbsp; GMT-5 (overlaps US East & Central) &nbsp;·&nbsp; Available for remote contracts
 
