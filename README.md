@@ -61,7 +61,6 @@ Looking for contracts involving:
 - **AI agents & RAG pipelines** — Claude, LangGraph, MCP, FastAPI backends
 - **B2B process automation** — turning manual workflows into agentic systems
 - **Android & KMP apps** — Jetpack Compose, Clean Architecture, offline-first
-- **Cybersecurity** — pentesting, security automation, tooling
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-hernandez-ruiz/)
 [![Email](https://img.shields.io/badge/Email-camihruiz24%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:camihruiz24@gmail.com)
