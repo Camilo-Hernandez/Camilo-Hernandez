@@ -15,8 +15,6 @@ Python and Kotlin engineer building AI agents, automation systems, and cross-pla
 ## Frameworks
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
@@ -29,12 +27,12 @@ Python and Kotlin engineer building AI agents, automation systems, and cross-pla
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-4A90D9?style=flat-square)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-6A0DAD?style=flat-square)
 
-## Infrastructure
+## Infrastructure & Databases
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_App_Runner-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![SQLDelight](https://img.shields.io/badge/SQLDelight-orange?style=flat-square)
 
 ---
 
